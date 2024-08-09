@@ -1,0 +1,19 @@
+Steps to Install Flappy Franky:
+
+Download the Files:
+Download all the files and folders from the installation directory.
+Save the downloaded files anywhere on your hard disk.
+
+Run the Game:
+Locate and run the flappy-game.exe file from the downloaded folder.
+Running the Game:
+Start the Game:
+Double-click on the flappy-game.exe file to launch the game.
+
+Troubleshooting:
+Firewall Settings:
+If Windows Firewall blocks the game, you have two options:
+Disable the Windows Firewall temporarily.
+Allow the flappy-game.exe file through the firewall:
+Go to Windows Firewall settings.
+Add an exception for the flappy-game.exe file to permit its execution.

@@ -1,0 +1,30 @@
+========================
+  Flappy Franky Manual
+========================
+
+Welcome to Flappy Franky! This manual provides detailed instructions on gameplay, controls, and additional information:
+
+1. **Starting the Game:**
+   - Double-click on the `flappy-game.exe` file to launch the game.
+
+2. **Game Controls:**
+   - Use the spacebar to make Franky flap and navigate between the pipes.
+   - Press 'M' to mute the background music.
+   - Press 'U' to unmute the background music.
+
+3. **Objective:**
+   - Guide Franky through the pipes by tapping the spacebar or clicking to avoid collisions.
+
+4. **Scoring System:**
+   - Score points for every pipe passed. Aim for a high score by navigating through as many pipes as possible.
+
+5. **Game Over:**
+   - The game ends when Franky collides with a pipe. Try to beat your high score in subsequent attempts.
+
+6. **Pause/Resume Feature:**
+   - Press the 'P' key to pause the game. Press 'Enter' again to resume from where you left off.
+
+7. **Troubleshooting:**
+   - If the game encounters issues, check the README file for troubleshooting steps.
+
+Enjoy playing Flappy Franky and have a fantastic gaming experience!
